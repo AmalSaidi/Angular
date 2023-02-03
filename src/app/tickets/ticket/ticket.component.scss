@@ -5,6 +5,12 @@
   background: red;
 }
 
+ #delete{
+  float: right;
+  background-color: #6c0101;
+  color: white;
+ }
+
 .ticket:hover {
   cursor: pointer;
 }
